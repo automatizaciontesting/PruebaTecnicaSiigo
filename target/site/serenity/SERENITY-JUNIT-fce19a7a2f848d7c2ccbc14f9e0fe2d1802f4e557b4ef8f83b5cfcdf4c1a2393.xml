@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Llamar las peticiones get,post,put y delete" skipped="0" tests="1" time="7.34" timestamp="2023-01-28 12:15:13"><testcase name="Petición Delete"><error message="Expected response body to be verified as JSON, HTML or XML but no content-type was defined in the response.&#10;Try registering a default parser using:&#10;   RestAssured.defaultParser(&lt;parser type&gt;);&#10;Content was:&#10;&#10;" type="java.lang.AssertionError">Expected response body to be verified as JSON, HTML or XML but no content-type was defined in the response.
+Try registering a default parser using:
+   RestAssured.defaultParser(&lt;parser type&gt;);
+Content was:
+
+</error><system-err>Expected response body to be verified as JSON, HTML or XML but no content-type was defined in the response.
+Try registering a default parser using:
+   RestAssured.defaultParser(&lt;parser type&gt;);
+Content was:
+
+
+com.siigoautomatizacion.co.stepsdefinition.PeticionesStepsDefinition.validoElStatusCode(PeticionesStepsDefinition.java:40)
+✽.valido el status code 204(file:///Users/hervincamargo/IdeaProjects/com.siigoautomatizacion.co/src/test/resources/features/CrudSerenity.feature:23)
+</system-err></testcase></testsuite>

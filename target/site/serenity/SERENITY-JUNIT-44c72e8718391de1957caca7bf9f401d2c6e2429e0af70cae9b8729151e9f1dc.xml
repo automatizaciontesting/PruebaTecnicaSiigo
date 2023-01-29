@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Realizar compra de productos tiendas 3b" skipped="3" tests="4" time="46.47" timestamp="2023-01-28 11:45:00"><testcase name=": Reservar vuelo en avianca - Best price -"><error message="Unable to locate element: //*[contains(text(),' Mejor precio ')]&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: '4.7.1', revision: 'c6795baf1a3'&#10;System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '16.0.2'&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Command: [d8fc8d6f-a568-4a3a-9fce-57d0d72f35bc, findElement {using=xpath, value=//*[contains(text(),' Mejor precio ')]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 109.0, moz:accessibilityChecks: false, moz:buildID: 20230112150232, moz:debuggerAddress: 127.0.0.1:33065, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 22.1.0, moz:processID: 4363, moz:profile: /var/folders/13/t2svrk1n42x..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://127.0.0.1:33065/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: d8fc8d6f-a568-4a3a-9fce-57d0d72f35bc" type="org.openqa.selenium.NoSuchElementException">Unable to locate element: //*[contains(text(),' Mejor precio ')]
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.1', revision: 'c6795baf1a3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '16.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [d8fc8d6f-a568-4a3a-9fce-57d0d72f35bc, findElement {using=xpath, value=//*[contains(text(),' Mejor precio ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 109.0, moz:accessibilityChecks: false, moz:buildID: 20230112150232, moz:debuggerAddress: 127.0.0.1:33065, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 22.1.0, moz:processID: 4363, moz:profile: /var/folders/13/t2svrk1n42x..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://127.0.0.1:33065/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d8fc8d6f-a568-4a3a-9fce-57d0d72f35bc</error><system-err>Unable to locate element: //*[contains(text(),' Mejor precio ')]
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.1', revision: 'c6795baf1a3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '16.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [d8fc8d6f-a568-4a3a-9fce-57d0d72f35bc, findElement {using=xpath, value=//*[contains(text(),' Mejor precio ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 109.0, moz:accessibilityChecks: false, moz:buildID: 20230112150232, moz:debuggerAddress: 127.0.0.1:33065, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 22.1.0, moz:processID: 4363, moz:profile: /var/folders/13/t2svrk1n42x..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://127.0.0.1:33065/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d8fc8d6f-a568-4a3a-9fce-57d0d72f35bc
+com.siigoautomatizacion.co.tasks.Destino.performAs(Destino.java:66)
+com.siigoautomatizacion.co.stepsdefinition.ReservarVueloStepsDefinition.agendarVueloDesdeCaliABogota(ReservarVuelo.java:33)
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+io.cucumber.java.Invoker.invoke(Invoker.java:24)
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:259)
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:59)
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+</system-err></testcase></testsuite>

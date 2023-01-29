@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Llamar las peticiones get,post,put y delete","Petición GET","SUCCESS","2023-01-28T19:33:56.086539-05:00[America/Bogota]","0.0","7.89"
+"Llamar las peticiones get,post,put y delete","Petición POS","SUCCESS","2023-01-28T19:34:04.014815-05:00[America/Bogota]","0.0","0.98"
+"Llamar las peticiones get,post,put y delete","Petición PUT","SUCCESS","2023-01-28T19:34:05.023169-05:00[America/Bogota]","0.0","0.87"
+"Llamar las peticiones get,post,put y delete","Petición Delete","SUCCESS","2023-01-28T19:34:05.904965-05:00[America/Bogota]","0.0","0.76"

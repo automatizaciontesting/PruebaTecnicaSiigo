@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Llamar las peticiones get,post,put y delete" skipped="0" tests="4" time="10.5" timestamp="2023-01-28 07:33:56"><testcase name="Petición GET"/><testcase name="Petición POS"/><testcase name="Petición PUT"/><testcase name="Petición Delete"/></testsuite>
