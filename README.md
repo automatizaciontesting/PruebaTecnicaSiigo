@@ -74,9 +74,9 @@ El patrón de diseño para esta pruebas es screenplay, usando el framework de Se
   El framework de serenity permite generar una vez concluidas las pruebas un reporte que resume los resultados tanto de pasos como del resultado esperado.
   Para consultar este reporte ir a raizProyecto\target\site\serenity
 
-![Serenity_Report](imagesReadme/serenity_report_1.png)
-![Serenity_Report](imagesReadme/serenity_report_2.png)
-![Serenity_Report](imagesReadme/serenity_report_3.png)
+![Serenity_Report](imagesReadme/serenity_report1.png)
+![Serenity_Report](imagesReadme/serenity_report2.png)
+![Serenity_Report](imagesReadme/serenity_report3.png)
 
 
 
